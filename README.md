@@ -1,10 +1,10 @@
 <div align="center">
 
-# 💀 Zarethos
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="40" height="40" /> Zarethos
 
 **Python Developer | ML Enthusiast | Linux Server Admin**
 
-*Building smart & scalable systems* 🚀
+*Building smart & scalable systems* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/zarethos)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" height="30" /> About Me
 
 ```python
 developer = {
@@ -26,11 +26,11 @@ developer = {
 }
 ```
 
-Passionate about building **efficient systems** and solving **complex problems**. I turn coffee ☕ into code and ideas into reality.
+Passionate about building **efficient systems** and solving **complex problems**. I turn coffee into code and ideas into reality.
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Arsenal
 
 **Core:** Python • Django • FastAPI • Flask  
 **ML/AI:** TensorFlow • PyTorch • Scikit-Learn  
@@ -39,7 +39,7 @@ Passionate about building **efficient systems** and solving **complex problems**
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Stats
 
 <div align="center">
 
@@ -53,28 +53,28 @@ Passionate about building **efficient systems** and solving **complex problems**
 
 ---
 
-## 🔥 What I Do
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> What I Do
 
-🐍 Build robust Python applications  
-🤖 Create ML models & intelligent systems  
-🐧 Manage & optimize Linux servers  
-⚡ Automate workflows & processes  
-🏗️ Design scalable architectures
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="20" height="20" /> Build robust Python applications  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> Create ML models & intelligent systems  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20" height="20" /> Manage & optimize Linux servers  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="20" height="20" /> Automate workflows & processes  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" alt="Construction" width="20" height="20" /> Design scalable architectures
 
 ---
 
-## 🌟 Currently
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" /> Currently
 
-- 📚 Deep diving into advanced ML algorithms
-- ☁️ Exploring cloud infrastructure (AWS/GCP)
-- 🎯 Building cool open-source projects
-- 🚀 Always learning, always growing
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Deep diving into advanced ML algorithms  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="20" height="20" /> Exploring cloud infrastructure (AWS/GCP)  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="20" height="20" /> Building cool open-source projects  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Always learning, always growing
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" /> Let's Connect
 
 **[Email]** • **[LinkedIn]** • **[Twitter]**
 
@@ -82,6 +82,6 @@ Passionate about building **efficient systems** and solving **complex problems**
 
 ![](https://komarev.com/ghpvc/?username=zarethos&color=58A6FF&style=flat)
 
-⭐ *Star my repos if you find them useful!*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" /> *Star my repos if you find them useful!* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" height="20" />
 
 </div>
