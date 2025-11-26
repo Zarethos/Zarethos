@@ -97,7 +97,7 @@ Passionate about building **efficient systems** and solving **complex problems**
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" /> Let's Connect
 
-**[Email]** • **[LinkedIn]** • **[Twitter]**
+**hello@zarethos.dev**
 
 ---
 
